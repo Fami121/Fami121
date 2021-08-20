@@ -10,7 +10,6 @@ float rmsValue(int arr[], int n)
     int square = 0;
 
     float mean = 0.0, root = 0.0;
- Ll
 
     for (int i = 0; i < n; i++) {
 
